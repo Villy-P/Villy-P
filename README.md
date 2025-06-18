@@ -10,6 +10,6 @@ Outside of programming, I love spending time outdoors and with friends and famil
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,electron,express,flutter,html,java,js,nextjs,react,regex,rollupjs,rust,sass,svelte,tailwind,tauri,ts,vite,vscode,webpack&perline=12"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,csharp,java,javascript,typescript,svelte,tailwind,opengl,nodejs,electron,vue,react,rollup,unity,cmake,rust,tauri&perline=12"/>
   </a>
 </p>
