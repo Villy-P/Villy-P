@@ -1,12 +1,10 @@
 # Hello!
 
-My name is Valerius Petrini, and I'm a high school software developer with a passion for open source development. I specialize in languages like **Typescript**, **C++**, and graphical tools like **OpenGL**.
+I am a student at UT Austin building tools for the open-source ecosystem. My work focuses on systems-level architecture, computer graphics, and reactive web frameworks using **TypeScript**, **C++**, and **Svelte**.
 
-Some of my current projects I'm developing are **Visual Studio Code extensions**, an **interactive fiction game engine** written in C++, and a **custom compiler** for a programming language I am making in C. You can find most of my completed projects on **Github**, where contributions from other developers are always welcome.
+Currently, I'm working on a component library for all my web projects, a custom made compiler for a programming language I'm designing, and tinkering with Unreal Engine to make nature scenes.
 
-My ultimate goal is to create tools that help other developers accelerate their workflow, leading to more innovation and development in the software ecosystem. I am also passionate about educating others on computer science topics, which I share on my **Blog**.
-
-Outside of programming, I love spending time outdoors and with friends and family. Feel free to browse my open-source repositories or connect with me to work together on innovative projects!
+When I'm not working on my projects, I'm usually exploring new web frameworks or writing [blog](https://valerius-petrini.vercel.app/blog) articles related to cool tech stuff I find.
 
 <p align="center">
   <a href="https://skillicons.dev">
